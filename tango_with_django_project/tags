@@ -1,0 +1,18 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+ALLOWED_HOSTS	/Users/raseelbhagat/workspace/django_tutorial/tango_with_django/tango_with_django_project/tango_with_django_project/settings.py	/^ALLOWED_HOSTS = []$/;"	v	language:Python
+BASE_DIR	/Users/raseelbhagat/workspace/django_tutorial/tango_with_django/tango_with_django_project/tango_with_django_project/settings.py	/^BASE_DIR = os.path.dirname(os.path.dirname(__file__))$/;"	v	language:Python
+DATABASES	/Users/raseelbhagat/workspace/django_tutorial/tango_with_django/tango_with_django_project/tango_with_django_project/settings.py	/^DATABASES = {$/;"	v	language:Python
+DEBUG	/Users/raseelbhagat/workspace/django_tutorial/tango_with_django/tango_with_django_project/tango_with_django_project/settings.py	/^DEBUG = True$/;"	v	language:Python
+INSTALLED_APPS	/Users/raseelbhagat/workspace/django_tutorial/tango_with_django/tango_with_django_project/tango_with_django_project/settings.py	/^INSTALLED_APPS = ($/;"	v	language:Python
+LANGUAGE_CODE	/Users/raseelbhagat/workspace/django_tutorial/tango_with_django/tango_with_django_project/tango_with_django_project/settings.py	/^LANGUAGE_CODE = 'en-us'$/;"	v	language:Python
+MIDDLEWARE_CLASSES	/Users/raseelbhagat/workspace/django_tutorial/tango_with_django/tango_with_django_project/tango_with_django_project/settings.py	/^MIDDLEWARE_CLASSES = ($/;"	v	language:Python
+os	/Users/raseelbhagat/workspace/django_tutorial/tango_with_django/tango_with_django_project/tango_with_django_project/settings.py	/^import os$/;"	i	language:Python
+ROOT_URLCONF	/Users/raseelbhagat/workspace/django_tutorial/tango_with_django/tango_with_django_project/tango_with_django_project/settings.py	/^ROOT_URLCONF = 'tango_with_django_project.urls'$/;"	v	language:Python
+SECRET_KEY	/Users/raseelbhagat/workspace/django_tutorial/tango_with_django/tango_with_django_project/tango_with_django_project/settings.py	/^SECRET_KEY = ')hpfug)ypa$e8vf*v!ylhe!44x&1*r%b4@#rtp0ie9_d#txh%d'$/;"	v	language:Python
+STATIC_URL	/Users/raseelbhagat/workspace/django_tutorial/tango_with_django/tango_with_django_project/tango_with_django_project/settings.py	/^STATIC_URL = '\/static\/'$/;"	v	language:Python
+TEMPLATE_DEBUG	/Users/raseelbhagat/workspace/django_tutorial/tango_with_django/tango_with_django_project/tango_with_django_project/settings.py	/^TEMPLATE_DEBUG = True$/;"	v	language:Python
+TIME_ZONE	/Users/raseelbhagat/workspace/django_tutorial/tango_with_django/tango_with_django_project/tango_with_django_project/settings.py	/^TIME_ZONE = 'UTC'$/;"	v	language:Python
+USE_I18N	/Users/raseelbhagat/workspace/django_tutorial/tango_with_django/tango_with_django_project/tango_with_django_project/settings.py	/^USE_I18N = True$/;"	v	language:Python
+USE_L10N	/Users/raseelbhagat/workspace/django_tutorial/tango_with_django/tango_with_django_project/tango_with_django_project/settings.py	/^USE_L10N = True$/;"	v	language:Python
+USE_TZ	/Users/raseelbhagat/workspace/django_tutorial/tango_with_django/tango_with_django_project/tango_with_django_project/settings.py	/^USE_TZ = True$/;"	v	language:Python
+WSGI_APPLICATION	/Users/raseelbhagat/workspace/django_tutorial/tango_with_django/tango_with_django_project/tango_with_django_project/settings.py	/^WSGI_APPLICATION = 'tango_with_django_project.wsgi.application'$/;"	v	language:Python
