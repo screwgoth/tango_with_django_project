@@ -1,17 +1,11 @@
-<!DOCTYPE html>
+{% extends 'base.html' %}
 
 {% load staticfiles %}
 
-<html>
+{% block title%}About{% endblock %}
 
-    <head>
-        <title>About Rango</title>
-    </head>
-
-    <body>
+{% block body_block %}
         <h1>About Rango ...</h1>
         This is version <strong>{{ version }}</strong><br />
-        <a href="/rango/">Back Home</a><br />
-    </body>
 
-</html>
+{% endblock %}
